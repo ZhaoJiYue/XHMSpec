@@ -44,7 +44,7 @@ TODO: Add long description of the pod here.
 #   s.dependency 'AFNetworking', '~> 2.3'
 #  s.vendored_framework  = 'XHMPodLib/Framework/***.framework'
 #  s.static_framework = true
-#  s.dependency 'RealReachability'
-#  s.dependency 'ZipArchive'
+  s.dependency 'RealReachability'
+  s.dependency 'ZipArchive'
 
 end
