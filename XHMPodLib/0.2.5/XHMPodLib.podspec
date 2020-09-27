@@ -38,11 +38,11 @@ TODO: Add long description of the pod here.
   # s.resource_bundles = {
   #   'XHMPodLib' => ['XHMPodLib/Assets/*.png']
   # }
-#  s.framework  = "webkit"
+  s.framework  = "webkit"
   # s.public_header_files = 'Pod/Classes/**/*.h'
-#  s.libraries = "z", "c++"
+  s.libraries = "z", "c++"
 #   s.dependency 'AFNetworking', '~> 2.3'
-#  s.vendored_framework  = 'XHMPodLib/Framework/***.framework'
+  s.vendored_framework  = 'XHMPodLib/Framework/***.framework'
 #  s.static_framework = true
   s.dependency 'RealReachability'
   s.dependency 'ZipArchive'
